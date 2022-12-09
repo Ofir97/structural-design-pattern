@@ -1,5 +1,6 @@
-import java.util.ArrayList;
-import java.util.List;
+package forum;
+
+import forum.Forum;
 
 public class Test {
     public static void main(String[] args) {

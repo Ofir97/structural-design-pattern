@@ -1,3 +1,7 @@
+package forum;
+
+import forum.Entity;
+
 import java.util.ArrayList;
 import java.util.List;
 

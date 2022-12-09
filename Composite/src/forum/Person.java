@@ -1,4 +1,6 @@
-public class Person extends Entity{
+package forum;
+
+public class Person extends Entity {
 
     private String name;
 
